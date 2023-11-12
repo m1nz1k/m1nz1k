@@ -48,6 +48,9 @@ I am a Python developer.
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=M1nz1k)](https://git.io/streak-stats) <br />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=M1nz1k)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1nz1k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@M1nz1k)](https://github.com/anuraghazra/github-readme-stats)
 ---
