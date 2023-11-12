@@ -7,6 +7,9 @@
     </a>
     <a href="https://discord.com/users/282834992437002241">
       <img src="https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white" alt="Discord Badge"/><br />
+    <a href="https://wakatime.com/@b21a8174-4e09-4b60-aacd-a898fb202597">
+      <img src="https://wakatime.com/badge/user/b21a8174-4e09-4b60-aacd-a898fb202597.svg" alt="Total time coded since Jan 20 2023" />
+    </a>
   </div>
   <h1>
     Hello, I'm Evgeniy Milyukov
@@ -47,5 +50,4 @@ I am a Python developer.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=M1nz1k)](https://git.io/streak-stats) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1nz1k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
